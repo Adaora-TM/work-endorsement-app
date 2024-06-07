@@ -1,0 +1,21 @@
+{
+    "name": "Kudos!",
+    "short_name": "Kudos",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FDFDFD",
+    "icons": [
+      {
+        "src": "kudosicon2.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "kudosicon2.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
